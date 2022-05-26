@@ -1,6 +1,6 @@
 # Rainbow-poem
 This is the repo for my poem
-The colors of the rainbow  and the unicorn is -
+The colors of the rainbow  and the unicorn and the pony is -
 Purple
 Green
 Orange
@@ -9,4 +9,5 @@ White
 Yellow
 REd...etc
 unicorn
+pony
 
