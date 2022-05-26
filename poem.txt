@@ -1,0 +1,8 @@
+# Rainbow-poem
+This is the repo for my poem
+The colors of the rainbow is -
+Purple
+Green
+Orange
+Blue
+REd...etc
